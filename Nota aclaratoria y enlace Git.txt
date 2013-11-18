@@ -1,0 +1,5 @@
+En la galería de heroés solo estan tres, los demás los omití porque no me dio tiempo de terminarlos
+Funcionan:
+* Hulk 
+* Ironman
+* Ojo de Halcón
